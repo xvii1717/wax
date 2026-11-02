@@ -6,7 +6,7 @@ Wax is a simple set of terminal commands that tracks your record collection.
 
 It can also help the user select music in some capacity.
 
-Design Diagram: ![wax Architecture Diagram](./wax.png)
+Design Diagram: ![wax Architecture Diagram](.docs/wax.png)
 
 
 1. PROGRAMMING LANGUAGES
